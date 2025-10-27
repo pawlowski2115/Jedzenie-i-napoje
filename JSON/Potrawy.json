@@ -1,0 +1,42 @@
+{
+    "nazwa": "Tortilla",
+    "czas przygotowania": 20,
+    "kalorie": 360,
+    "poziom": "normalny",
+    "skladniki": ["tortilla", "kurczak" , "pomidor"]
+},
+{
+    "nazwa": "Burger",
+    "czas przygotowania": 25,
+    "kalorie": 570,
+    "poziom": "normalny",
+    "skladniki": ["bulka", "mieso wolowe" , "pomidor", "salata"]
+},
+{
+    "nazwa": "Jajecznica",
+    "czas przygotowania": 10,
+    "kalorie": 210,
+    "poziom": "latwy",
+    "skladniki": ["jajka", "cebula" , "pomidor"]
+},
+{
+    "nazwa": "Pudding",
+    "czas przygotowania": 10,
+    "kalorie": 120,
+    "poziom": "trudny",
+    "skladniki": ["mleko", "truskawki" , "nasiona chia"]
+},
+{
+    "nazwa": "Shake",
+    "czas przygotowania": 10,
+    "kalorie": 111,
+    "poziom": "latwy",
+    "skladniki": ["mleko", "odzywka bialkowa" , "czekolada"]
+},
+{
+    "nazwa": "pizza",
+    "czas przygotowania": 40,
+    "kalorie": 230,
+    "poziom": "normalny",
+    "skladniki": ["ciasto", "kurczak" , "sos"]
+}
