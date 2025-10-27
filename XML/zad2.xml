@@ -1,0 +1,38 @@
+<potrawy>
+    <danie>
+        <nazwa>Spaghetti</nazwa>
+        <krajpochodzenia>Włochy</krajpochodzenia>
+        <glownyskladnik>Makaron</glownyskladnik>
+        <kalorie>157/100g</kalorie>
+    </danie>
+    <danie>
+        <nazwa>Bigos</nazwa>
+        <krajpochodzenia>Polska<krajpochodzenia>
+        <glownyskladnik>Kapusta</glownyskladnik>
+        <kalorie>180/100g</kalorie>
+    </danie>
+    <danie>
+        <nazwa>Ramen</nazwa>
+        <krajpochodzenia>Chiny</krajpochodzenia>
+        <glownyskladnik>Bulion, Makaron</glownyskladnik>
+        <kalorie>436/100g</kalorie>
+    </danie>
+    <danie>
+        <nazwa>Pierogi ruskie</nazwa>
+        <krajpochodzenia>Polska</krajpochodzenia>
+        <glownyskladnik>Ciasto, ziemniaki</glownyskladnik>
+        <kalorie>175/100g</kalorie>
+    </danie>
+    <danie>
+        <nazwa>Hamburger</nazwa>
+        <krajpochodzenia>Niemcy</krajpochodzenia>
+        <glownyskladnik>Bułka, mięso</glownyskladnik>
+        <kalorie>295/100g</kalorie>
+    </danie>
+    <danie>
+        <nazwa>Pizza</nazwa>
+        <krajpochodzenia>Włochy</krajpochodzenia>
+        <glownyskladnik>Ciasto, sos pomidorowy</glownyskladnik>
+        <kalorie>266/100g</kalorie>
+    </danie>
+</potrawy>

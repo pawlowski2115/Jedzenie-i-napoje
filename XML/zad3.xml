@@ -1,0 +1,24 @@
+<napoje>
+    <napoj wlasciciel="The Coca-Cola Company">
+        <nazwa wersja="z cukrem">Coca Cola</nazwa>
+        <gazowany>Tak</gazowany>
+        <rokpowstania>1886</rokpowstania>
+        <kcal>42/100ml</kcal>
+    </napoj>
+    <napoj wlasciciel="The Coca-Cola Company">
+        <nazwa wersja="z cukrem">Sprite</nazwa>
+        <gazowany>Tak</gazowany>
+        <rokpowstania>1961</rokpowstania>
+        <kcal>37/100ml</kcal>
+    </napoj>
+    <napoj wlasciciel="Warszawski Koks">
+        <nazwa wersja="bez cukru">Dzik Energy</nazwa>
+        <gazowany>Tak</gazowany>
+        <rokpowstania>2021</rokpowstania>
+        <kcal>3/100ml</kcal>
+    </napoj wlasciciel="Pepsi Lipton Tea Partnership">
+        <nazwa wersja="z cukrem">Lipton Ice Tea Green</nazwa>
+        <gazowany>Nie</gazowany>
+        <rokpowstania>1972</rokpowstania>
+        <kcal>10/100ml</kcal>
+</napoje>
