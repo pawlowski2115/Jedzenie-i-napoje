@@ -1,0 +1,10 @@
+{
+    "potrawa": "owsianka",
+    "waga": 28.8,
+    "kalorie": 384,
+    "skladniki": ["platki owsiane", "jablko", "mleko", "cynamon"],
+    "przygotowanie":{
+        "czas": 15,
+        "poziom": "latwy"
+    }
+}
